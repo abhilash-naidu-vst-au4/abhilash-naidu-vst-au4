@@ -17,14 +17,14 @@
 <br />
 <br />
 
-Hi, I'm Abhilash Naidu, a Full Stack Developer 🚀 from India, currently,I'am a  Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/).
-Beside's Programming, I enjoy eating food and traveling & Cycling.
+Hi, I'm Abhilash Naidu, a Full Stack Developer 🚀 from India, currently,I'am a  Freelancer 👨🏽‍💻 @Upwork.
+Beside's Programming, I am a Foodie, Traveller & Love Cycling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on  TensorFlow Js.
+- 👨🏽‍💻 I’m currently working on TensorFlow Js.
 - 🌱 I’m currently learning GraphQL.
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
