@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hi, I'm Abhilash Naidu, a Full Stack Developer 🚀 from India, currently,I'am a  Freelancer 👨🏽‍💻 @Upwork.
+Hi, I'm Abhilash Naidu, a Full Stack Developer 🚀 from India, 👨🏽‍💻 @Upwork.
 Beside's Programming, I am a Foodie, Traveller & Love Cycling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
