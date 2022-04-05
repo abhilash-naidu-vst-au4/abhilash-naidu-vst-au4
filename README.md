@@ -24,9 +24,10 @@ Beside's Programming, I am a Foodie, Traveller & Love Cycling.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on TensorFlow Js.
 - 🌱 I’m currently learning GraphQL.
+-    I'm currently learning React Native.
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👨🏽‍💻 Future learnings ML & work with TensorFlow Js.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: abhi.naids7@gmail.com;
 
